@@ -1,5 +1,5 @@
 # Attack-Lab
-2017 Fall KAIST CS230 Lab 4 Attack Lab
+2017 Fall KAIST CS230 Lab 3 Attack Lab
 from CMU
 
 This file contains materials for one instance of the attacklab.
